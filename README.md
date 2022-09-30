@@ -1,5 +1,3 @@
-## Deposito Java
+## Programação Avançada
 
-## Sobre o Projeto
-
-Aqui postaremos questões resolvidas em java.
+Questoes da Ficha de Programação Avançada.
